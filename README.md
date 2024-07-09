@@ -44,3 +44,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mohichehra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/shohabbosdev)
 
+---
+### 🔥 My stats:
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatullayevamohichehra" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatullayevamohichehra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
