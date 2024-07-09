@@ -19,4 +19,7 @@
       <a href="https://t.me/Diyorbekkkkk">
     <img src="https://img.shields.io/badge/twitter-black?logo=x&logoColor=white" alt ="Bu twitter"/>
     </a>
+<br>
+  <img src="https://komarev.com/ghpvc/?username=rahmatullayevamohichehra&label=Mohichehraning+progiliga+kirishlar+soni" alt=""/>
+  
 </div>
