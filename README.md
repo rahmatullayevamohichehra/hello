@@ -7,7 +7,7 @@
   <a href="https://t.me/Diyorbekkkkk">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt ="Bu telegram"/>
   </a>
-    <a href="https://t.me/Diyorbekkkkk">
+    <a href="https://t.me/user-ry6zd9xe3c">
     <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt ="Bu youtube"/>
   </a>
     <a href="https://t.me/Diyorbekkkkk">
