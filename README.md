@@ -15,4 +15,8 @@
   </a>
     <a href="https://t.me/Diyorbekkkkk">
     <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt ="Bu facebook"/>
+    </a>
+      <a href="https://t.me/Diyorbekkkkk">
+    <img src="https://img.shields.io/badge/twitter-black?logo=x&logoColor=white" alt ="Bu twitter"/>
+    </a>
 </div>
